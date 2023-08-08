@@ -22,7 +22,7 @@ Install Solidworks for Linux client:
 
 Open a terminal and run this command:
 
-    cd ~/Downloads && wget -N https://raw.githubusercontent.com/Siarlo/SOLIDWORKS-for-ubuntu22.04/main/files/builds/stable-branch/bin/install.sh && chmod +x install.sh && ./install.sh
+    cd ~/Downloads && wget -N https://raw.githubusercontent.com/Siarlo/SolidWorks-For-Ubuntu22.04/main/files/builds/stable-branch/bin/install.sh && chmod +x install.sh && ./install.sh
 
 *Notice: Script is still in progress!!!
 
